@@ -9,7 +9,7 @@ do {
     let branchName = try shellOut(to: "git rev-parse --abbrev-ref HEAD")
     print("You are currently working on: \(branchName)")
     
-    // Challenge 3 --
+    // Challenge 4 --
     //
     // Create a string updatedMessage that combines the branch
     // name with the original commit message provided by the user
