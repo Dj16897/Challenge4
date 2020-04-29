@@ -11,6 +11,8 @@ do {
     
     // Challenge 4 --
     //
+    // **** ----
+    //
     // Part 1
     //
     // Create a string updatedMessage that combines the branch
@@ -23,7 +25,11 @@ do {
     //
     // store the output of this command in a constant
     // and print the output
+    
+    // **** ----
 
+
+    // **** ----
     //
     // Part 2
     // Once you are successful with above
@@ -43,6 +49,9 @@ do {
     // make sure it runs properly
     // (check for commits under git log)
     // (you can undo the commit later)
+
+    // **** ----
+
 
 } catch {
     let error = error as! ShellOutError
